@@ -111,6 +111,11 @@ button:hover{
     width: calc(32px * var(--pixel-size));
     height: calc(32px * var(--pixel-size));
 }
+#result_calculo{
+    background-color: var(--color_bg);
+    color: var(--color_white);
+    padding: .75rem;
+}
 .pixelart {
     image-rendering: pixelated;
 }
